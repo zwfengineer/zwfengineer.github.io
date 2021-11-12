@@ -1,0 +1,37 @@
+.btop{
+    text-align: center;
+    border-style: ridge;
+    border-color:black;
+    border-width: 10px;
+    left: 20%;
+    right:20%;
+    top: 5%;
+    position:fixed;
+    background-color: rgb(58, 54, 54);
+    color: wheat;
+}
+.body{
+    background-color: rgb(58, 54, 54);
+}
+.menulink{
+    color: white;
+    font-size: 25px;
+}
+.menu{
+    background-color: rgb(53, 13, 13);
+    position:fixed;
+    top:20%;
+    height: 500px;
+    width: 10%;
+    text-align: center;
+    text-align-last: center;
+}
+.menuico{
+    background-color: rgb(90, 27, 27);
+    top:20%;
+    width: 10%;
+    height: 100px;
+    background-image: url(favicon.ico);
+    position: fixed;
+    background-repeat: no-repeat;
+}
